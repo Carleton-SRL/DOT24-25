@@ -5,6 +5,10 @@ This repository is a derivative of the [SPOT](https://github.com/Carleton-SRL/SP
 ## Abstract
 This research addresses the need to develop in-space refueling technologies by experimentally demonstrating an autonomous docking maneuver and fluid transfer operation between a servicer and uncooperative spinning client spacecraft. A novel computer vision algorithm estimates the relative pose of the client spacecraft in real-time using an on-board Light Detection and Ranging camera. An unscented Kalman filter refines the pose data before a model predictive controller generates a collision-free docking trajectory for the servicer spacecraft to follow. A custom-designed docking and refueling mechanism for fluid transfer performs magnetic soft docking and robotic arm capture to seal a probe-and-drogue connection and transfer fluid from the servicer to the client spacecraft. Planar experimental validation is conducted at Carleton University's Spacecraft Proximity Operations Testbed, demonstrating a complete autonomous docking and refueling operation.
 
+## License
+
+MIT License. Copyright (c) 2026 Carleton University Spacecraft Robotics Laboratory. See [LICENSE](LICENSE) for details.
+
 ---
 
 ## Citation

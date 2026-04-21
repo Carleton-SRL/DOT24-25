@@ -12,8 +12,8 @@ This research addresses the need to develop in-space refueling technologies by e
 If you use this software for any research, please cite:
 
 ```bibtex
-@inproceedings{crain2026ieats,
-  author    = {Jeremy Peters, Dominika Folta, Thomas King, Brianna Hines, Brian Koren, Daan Singh, Kristian Delaney, Alexander Crain, and Steve Ulrich },
+@inproceedings{peters2026lidar,
+  author    = {Jeremy Peters, Dominika Folta, Thomas King, Brianna Hines, Brian Koren, Daan Singh, Kristian Delaney, Alexander Crain, and Steve Ulrich},
   title     = {Experimental Demonstration of LiDAR-Based Docking and Refueling of a Spinning Spacecraft},
   booktitle = {36th AIAA/AAS Space Flight Mechanics Meeting},
   address   = {Orlando, FL},
